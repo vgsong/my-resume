@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-resume/static/css/main.cd201d01.css",
+    "main.js": "/my-resume/static/js/main.45958bd3.js",
+    "static/media/wnp.jpg": "/my-resume/static/media/wnp.829119c54c3431eca2e1.jpg",
+    "static/media/taiko.jpg": "/my-resume/static/media/taiko.7f856f6c04021c40438d.jpg",
+    "static/media/akarenina.jpg": "/my-resume/static/media/akarenina.d1419c6d2b7fe3e9befb.jpg",
+    "static/media/rasputin.jpg": "/my-resume/static/media/rasputin.fb7800a95622684b5ff9.jpg",
+    "static/media/mmusashi.jpg": "/my-resume/static/media/mmusashi.f7cd6c2fb755184b2288.jpg",
+    "static/media/cnp.jpg": "/my-resume/static/media/cnp.109c9d9ff7eca06f9f20.jpg",
+    "static/media/ringo.jpg": "/my-resume/static/media/ringo.3efffb5f211701136c55.jpg",
+    "static/media/tbk.jpg": "/my-resume/static/media/tbk.40774b32f981b2c7826a.jpg",
+    "static/media/python-logo.png": "/my-resume/static/media/python-logo.52d7bb207f9868b90e39.png",
+    "static/media/donquixote.jpg": "/my-resume/static/media/donquixote.6391945c3ffcbf2481c8.jpg",
+    "static/media/demons.jpg": "/my-resume/static/media/demons.b21b81883baee1a873af.jpg",
+    "static/media/codewarsicon.png": "/my-resume/static/media/codewarsicon.8f82bab90034a36afd22.png",
+    "static/media/ivanilyich.jpg": "/my-resume/static/media/ivanilyich.868db122e03bff73dbaf.jpg",
+    "static/media/locicon.png": "/my-resume/static/media/locicon.3590dad0f00482e48826.png",
+    "index.html": "/my-resume/index.html",
+    "main.cd201d01.css.map": "/my-resume/static/css/main.cd201d01.css.map",
+    "main.45958bd3.js.map": "/my-resume/static/js/main.45958bd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd201d01.css",
+    "static/js/main.45958bd3.js"
+  ]
+}
