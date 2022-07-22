@@ -38,7 +38,7 @@ export default function FavoriteContent() {
         <div className="Favorite-Content">
             <h1>FAVORITES.</h1>
             <div className="Favorite-Card-Content">
-            {favBookList}
+            {/* {favBookList} */}
             </div>
         </div>
     );
