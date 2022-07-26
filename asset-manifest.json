@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-resume/static/css/main.07aaa974.css",
-    "main.js": "/my-resume/static/js/main.f3884e11.js",
+    "main.css": "/my-resume/static/css/main.7f913551.css",
+    "main.js": "/my-resume/static/js/main.37fe4694.js",
     "static/media/wnp.jpg": "/my-resume/static/media/wnp.829119c54c3431eca2e1.jpg",
     "static/media/taiko.jpg": "/my-resume/static/media/taiko.7f856f6c04021c40438d.jpg",
     "static/media/akarenina.jpg": "/my-resume/static/media/akarenina.d1419c6d2b7fe3e9befb.jpg",
@@ -11,18 +11,23 @@
     "static/media/ringo.jpg": "/my-resume/static/media/ringo.3efffb5f211701136c55.jpg",
     "static/media/tbk.jpg": "/my-resume/static/media/tbk.40774b32f981b2c7826a.jpg",
     "static/media/python-logo.png": "/my-resume/static/media/python-logo.52d7bb207f9868b90e39.png",
+    "static/media/cnb.png": "/my-resume/static/media/cnb.f400946aa4b4a49f0ec9.png",
     "static/media/donquixote.jpg": "/my-resume/static/media/donquixote.6391945c3ffcbf2481c8.jpg",
     "static/media/demons.jpg": "/my-resume/static/media/demons.b21b81883baee1a873af.jpg",
     "static/media/codewarsicon.png": "/my-resume/static/media/codewarsicon.8f82bab90034a36afd22.png",
+    "static/media/Front-end-logo.png": "/my-resume/static/media/Front-end-logo.f89bcbf0b31c7f020ac2.png",
     "static/media/ivanilyich.jpg": "/my-resume/static/media/ivanilyich.868db122e03bff73dbaf.jpg",
+    "static/media/cordoba.jpg": "/my-resume/static/media/cordoba.f793bba1e88239b43351.jpg",
+    "static/media/ma.jpg": "/my-resume/static/media/ma.7031db194be83347a481.jpg",
     "static/media/locicon.png": "/my-resume/static/media/locicon.3590dad0f00482e48826.png",
+    "static/media/vbaLogo.jpg": "/my-resume/static/media/vbaLogo.bc5d47f6a706afc0710e.jpg",
     "static/media/JavaScript-logo.png": "/my-resume/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/my-resume/index.html",
-    "main.07aaa974.css.map": "/my-resume/static/css/main.07aaa974.css.map",
-    "main.f3884e11.js.map": "/my-resume/static/js/main.f3884e11.js.map"
+    "main.7f913551.css.map": "/my-resume/static/css/main.7f913551.css.map",
+    "main.37fe4694.js.map": "/my-resume/static/js/main.37fe4694.js.map"
   },
   "entrypoints": [
-    "static/css/main.07aaa974.css",
-    "static/js/main.f3884e11.js"
+    "static/css/main.7f913551.css",
+    "static/js/main.37fe4694.js"
   ]
 }
