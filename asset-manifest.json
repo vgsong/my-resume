@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-resume/static/css/main.ca1bd6d1.css",
-    "main.js": "/my-resume/static/js/main.285b6a78.js",
+    "main.css": "/my-resume/static/css/main.bde17d5e.css",
+    "main.js": "/my-resume/static/js/main.cd0f7bfc.js",
     "static/media/wnp.jpg": "/my-resume/static/media/wnp.829119c54c3431eca2e1.jpg",
     "static/media/taiko.jpg": "/my-resume/static/media/taiko.7f856f6c04021c40438d.jpg",
     "static/media/akarenina.jpg": "/my-resume/static/media/akarenina.d1419c6d2b7fe3e9befb.jpg",
@@ -23,11 +23,11 @@
     "static/media/vbaLogo.jpg": "/my-resume/static/media/vbaLogo.bc5d47f6a706afc0710e.jpg",
     "static/media/JavaScript-logo.png": "/my-resume/static/media/JavaScript-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/my-resume/index.html",
-    "main.ca1bd6d1.css.map": "/my-resume/static/css/main.ca1bd6d1.css.map",
-    "main.285b6a78.js.map": "/my-resume/static/js/main.285b6a78.js.map"
+    "main.bde17d5e.css.map": "/my-resume/static/css/main.bde17d5e.css.map",
+    "main.cd0f7bfc.js.map": "/my-resume/static/js/main.cd0f7bfc.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca1bd6d1.css",
-    "static/js/main.285b6a78.js"
+    "static/css/main.bde17d5e.css",
+    "static/js/main.cd0f7bfc.js"
   ]
 }
